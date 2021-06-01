@@ -125,7 +125,7 @@ Jika kita belum memiliki respons keluar, kita dapat menggunakan method ``expire`
 Cookie::expire('name');
 ```
 
-### Cookies & Enxryption
+### Cookies & Encryption
 Secara default, semua cookie yang dihasilkan oleh laravel dienkripsi dan tidak dapat diubah atau dibaca oleh klien. Jika kita ingin menonaktifkan enkripsi untuk subset cookie yang dibuat aplikasi kita. Kita bisa menggunakan ``$except``  dari ``App\Http\Middleware\EncryptCookies``. Lokasi dari middleware terdapat pada folder ``app/Http/Middleware``.
 
 
