@@ -5,5 +5,5 @@
 ## Daftar isi
 
 - [Laravel Request](laravel-request.md)
-- [Laravel Validation](laravel-request.md)
+- [Laravel Validation](laravel-validation.md)
 - [Laravel Response](laravel-response.md)
